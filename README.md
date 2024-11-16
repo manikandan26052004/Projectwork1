@@ -1,4 +1,4 @@
-[## Title of the Project
+## Title of the Project
 SpendGenius: A Comprehensive Expense Analysis and Forecasting Tool
 
 ## About
@@ -46,4 +46,3 @@ SpendGenius is a robust application designed to provide individuals and business
 [3] M. D. Roy and K. S. Nair, “Optimizing Expense Tracking with Predictive Modeling,” EAI Endorsed Transactions on Machine Learning, vol. 9, no. 10, pp. 67-75, Nov. 2024.<br>
 [4] R. Gupta and A. Khurana, “Enhancing Financial Planning through A Machine Learning Perspective,” IEEE Transactions on Consumer Applications, vol. 15, no. 5, pp. 45-55, Sept. 2024.<br>
 [5] P. K. Das, V. Chatterjee, and A. Sen, “Advancing Budgeting and Forecasting with Data-Driven Insights,” Springer Journal of Data Science Innovations, vol. 11, no. 3, pp. 123-134, Dec. 2024.
-](https://github.com/manikandan26052004/Miniproject-team68)
