@@ -1,60 +1,49 @@
 [## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+SpendGenius: A Comprehensive Expense Analysis and Forecasting Tool
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+SpendGenius is a robust application designed to provide individuals and businesses with an intelligent platform for tracking expenses, analyzing spending patterns, and forecasting future financial trends. This project combines data analytics, machine learning, and intuitive visualizations to empower users to make informed financial decisions.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Expense Tracking: Log and categorize daily expenses efficiently.
+- Data Analytics: Analyze spending trends and generate detailed reports.
+- Forecasting: Predict future expenses using machine learning models.
+- Budget Management: Set budgets and get alerts when approaching limits.
+- User-Friendly Dashboard: Visualize insights through graphs, charts, and summaries.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+- Programming Language: Python
+- Libraries Used: NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn
+- Environment: Jupyter Notebook or any Python IDE
+- Other Tools: SQLite for database management, Flask/Django for deployment (optional)
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2024-11-16 at 9 55 29 AM](https://github.com/user-attachments/assets/36caf482-f463-41dc-b756-f546c9536037)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Future Spending Forecast
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot 2024-11-16 093200](https://github.com/user-attachments/assets/bd0bff4c-b1f6-4296-8454-693043ee86d3)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Budget Spend Analysis and Future Predictions
+![Screenshot 2024-11-16 093226](https://github.com/user-attachments/assets/540e55f8-f81d-46c0-9ab7-5e6ae5055aca)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+- Delivered actionable financial insights by identifying major spending categories.
+- Improved users' financial planning by forecasting expenses with high accuracy.
+- Provided an intuitive dashboard that simplifies financial data interpretation.
+- Enhanced budgeting habits for users, leading to better financial health.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
-](https://github.com/manikandan26052004/Miniproject-team68/blob/main/README.md)
+[1] A. Patel, N. Rajan, and P. Kumar, “A Data-Driven Approach to Personal Expense Management and Forecasting,” Journal of Financial Analytics, vol. 3, no. 2, pp. 12-21, Dec. 2024.<br>
+[2] S. Tiwari, R. Singh, and L. Mathews, “Integrating Machine Learning for Predictive Expense Analysis in SpendGenius,” International Journal of Smart Applications and Data Analytics, vol. 6, no. 4, pp. 98-107, Oct. 2024.<br>
+[3] M. D. Roy and K. S. Nair, “Optimizing Expense Tracking with Predictive Modeling,” EAI Endorsed Transactions on Machine Learning, vol. 9, no. 10, pp. 67-75, Nov. 2024.<br>
+[4] R. Gupta and A. Khurana, “Enhancing Financial Planning through A Machine Learning Perspective,” IEEE Transactions on Consumer Applications, vol. 15, no. 5, pp. 45-55, Sept. 2024.<br>
+[5] P. K. Das, V. Chatterjee, and A. Sen, “Advancing Budgeting and Forecasting with Data-Driven Insights,” Springer Journal of Data Science Innovations, vol. 11, no. 3, pp. 123-134, Dec. 2024.
+](https://github.com/manikandan26052004/Miniproject-team68)
